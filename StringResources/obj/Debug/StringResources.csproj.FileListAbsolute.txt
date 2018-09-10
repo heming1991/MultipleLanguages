@@ -1,0 +1,21 @@
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\bin\Debug\StringResources.dll
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\bin\Debug\StringResources.pdb
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\bin\Debug\zh-CN\StringResources.resources.dll
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\obj\Debug\StringResources.Resources.resources
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\obj\Debug\StringResources.Resources.zh-CN.resources
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\obj\Debug\StringResources.csproj.GenerateResource.Cache
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\obj\Debug\zh-CN\StringResources.resources.dll
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\obj\Debug\StringResources.dll
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\obj\Debug\StringResources.pdb
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\StringResources\obj\Debug\StringResources.csprojResolveAssemblyReference.cache
+D:\1.Code\FormLanguage\FormLanguage\StringResources\bin\Debug\StringResources.dll
+D:\1.Code\FormLanguage\FormLanguage\StringResources\bin\Debug\StringResources.pdb
+D:\1.Code\FormLanguage\FormLanguage\StringResources\bin\Debug\zh-CN\StringResources.resources.dll
+D:\1.Code\FormLanguage\FormLanguage\StringResources\obj\Debug\StringResources.csprojAssemblyReference.cache
+D:\1.Code\FormLanguage\FormLanguage\StringResources\obj\Debug\StringResources.Resources.resources
+D:\1.Code\FormLanguage\FormLanguage\StringResources\obj\Debug\StringResources.Resources.zh-CN.resources
+D:\1.Code\FormLanguage\FormLanguage\StringResources\obj\Debug\StringResources.csproj.GenerateResource.cache
+D:\1.Code\FormLanguage\FormLanguage\StringResources\obj\Debug\StringResources.csproj.CoreCompileInputs.cache
+D:\1.Code\FormLanguage\FormLanguage\StringResources\obj\Debug\zh-CN\StringResources.resources.dll
+D:\1.Code\FormLanguage\FormLanguage\StringResources\obj\Debug\StringResources.dll
+D:\1.Code\FormLanguage\FormLanguage\StringResources\obj\Debug\StringResources.pdb

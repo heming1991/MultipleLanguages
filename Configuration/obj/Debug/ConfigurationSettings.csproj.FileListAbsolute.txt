@@ -1,0 +1,10 @@
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\Configuration\bin\Debug\ConfigurationSettings.dll
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\Configuration\bin\Debug\ConfigurationSettings.pdb
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\Configuration\obj\Debug\ConfigurationSettings.dll
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\Configuration\obj\Debug\ConfigurationSettings.pdb
+D:\1.Code\FormLanguage\FormLanguage\Configuration\bin\Debug\ConfigurationSettings.dll
+D:\1.Code\FormLanguage\FormLanguage\Configuration\bin\Debug\ConfigurationSettings.pdb
+D:\1.Code\FormLanguage\FormLanguage\Configuration\obj\Debug\ConfigurationSettings.csprojAssemblyReference.cache
+D:\1.Code\FormLanguage\FormLanguage\Configuration\obj\Debug\ConfigurationSettings.csproj.CoreCompileInputs.cache
+D:\1.Code\FormLanguage\FormLanguage\Configuration\obj\Debug\ConfigurationSettings.dll
+D:\1.Code\FormLanguage\FormLanguage\Configuration\obj\Debug\ConfigurationSettings.pdb

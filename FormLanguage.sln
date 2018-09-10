@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormLanguage", "FormLanguage\FormLanguage.csproj", "{E0C2535B-E0F4-48CE-AF07-4297BB1669DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationSettings", "Configuration\ConfigurationSettings.csproj", "{2000B4D9-E1FB-43E2-A324-6EB7E1F1ED6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringResources", "StringResources\StringResources.csproj", "{E8D86482-D810-4148-95AA-EC019669B064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C2535B-E0F4-48CE-AF07-4297BB1669DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C2535B-E0F4-48CE-AF07-4297BB1669DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C2535B-E0F4-48CE-AF07-4297BB1669DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C2535B-E0F4-48CE-AF07-4297BB1669DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2000B4D9-E1FB-43E2-A324-6EB7E1F1ED6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2000B4D9-E1FB-43E2-A324-6EB7E1F1ED6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2000B4D9-E1FB-43E2-A324-6EB7E1F1ED6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2000B4D9-E1FB-43E2-A324-6EB7E1F1ED6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D86482-D810-4148-95AA-EC019669B064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D86482-D810-4148-95AA-EC019669B064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D86482-D810-4148-95AA-EC019669B064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D86482-D810-4148-95AA-EC019669B064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

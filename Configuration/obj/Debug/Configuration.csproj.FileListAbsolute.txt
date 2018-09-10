@@ -1,0 +1,4 @@
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\Configuration\bin\Debug\Configuration.dll
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\Configuration\bin\Debug\Configuration.pdb
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\Configuration\obj\Debug\Configuration.dll
+C:\Users\hli143697\Documents\Visual Studio 2012\Projects\FormLanguage\Configuration\obj\Debug\Configuration.pdb
