@@ -1,2 +1,2 @@
 # MultipleLanguages
-Winform support multiple languages  
+Use original project easy Winform to support multiple languages  
